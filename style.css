@@ -1,0 +1,58 @@
+body {
+    font-family: 'Times New Roman';
+    margin: 0;
+    padding: 10px;
+    background-color: white;
+}
+
+.container {
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+}
+
+.header {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 40px 0;
+}
+
+header h1 {
+    font-size: 36px;
+    margin: 10px;
+}
+
+nav {
+    padding: 10px;
+    font-size: 14px;
+}
+
+img{
+    height: 200px;
+}
+nav a {
+    color: blue;
+    text-decoration: underline;
+}
+
+main {
+    padding: 0 10px;
+}
+
+main h2 {
+    font-size: 20px;
+}
+
+main p {
+    font-size: 14px;
+}
+
+footer {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 3px;
+}
